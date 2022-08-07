@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print("Hello, Cs235")  # Press ⌘F8 to toggle the breakpoint.
+    print("Hello, Cs235! git is very useful")  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
